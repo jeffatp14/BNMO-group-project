@@ -1,4 +1,4 @@
-BNMO is a modular game management system\n
+BNMO is a modular game management system <br>
 BNMO is group project consisting 4 people
 This program tailored for :
       -Administrators and users
