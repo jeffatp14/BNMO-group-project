@@ -8,7 +8,7 @@ This program tailored for : <br>
       -Balance top-up <br>
       -Access control <br>
 With my contributions are developing: <br>
-      -Facilitating stock updates (UbahStock.py) <br>
+      -Facilitating stock updates (UbahStok.py) <br>
       -Implementing game listings based on various parameters like release year and pricing (ListGame.py, ListingGame.py) <br>
       -Enabling game purchases (BuyGame.py) <br>
       -Showcasing owned games for users (riwayat.py) <br>
